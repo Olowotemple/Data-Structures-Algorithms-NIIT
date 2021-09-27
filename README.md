@@ -24,10 +24,12 @@ Having taken a few programming courses in prior school years and being a self-ta
 
 ## Why a need for yet another repository?
 
-This repository contains solutions that I propose to the exercises contained in the book. They may not be the most efficient or the most pretty but at the very least, I guarantee that they would solve the problem.
+This repository contains solutions that I propose to the exercises contained in the book. They may not be the most efficient or the most pretty, but I at the very least guarantee that they would solve the problem.
 
 The repository would be organised into the chapters of the book, like so;
 
 - Chapter1
 - Chapter2
 - Chapter3 etc.
+
+While the book teaches using the C#/C++ programming language, my solutions will be in TypeScript/JavaScript for the most part.
