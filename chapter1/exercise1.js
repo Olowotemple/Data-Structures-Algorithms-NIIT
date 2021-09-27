@@ -14,7 +14,7 @@ OUTPUT: true || false [Boolean]
         i. RETURN false
     b. INCREMENT i
 3. RETURN true
- */
+*/
 
 function isPrime(n) {
   if (n <= 1) {
@@ -32,10 +32,12 @@ function isPrime(n) {
 }
 
 // tests
-console.log(isPrime(0)); // false
-console.log(isPrime(1)); // false
-console.log(isPrime(2)); // true
-console.log(isPrime(3)); // true
-console.log(isPrime(4)); // false
-console.log(isPrime(49)); // false
-console.log(isPrime(23)); // true
+// console.log(isPrime(0)); // false
+// console.log(isPrime(1)); // false
+// console.log(isPrime(2)); // true
+// console.log(isPrime(3)); // true
+// console.log(isPrime(4)); // false
+// console.log(isPrime(49)); // false
+// console.log(isPrime(23)); // true
+
+module.exports = isPrime;
